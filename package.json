@@ -1,0 +1,14 @@
+{
+  "name": "truthtable",
+  "version": "0.1.0",
+  "description": "Create a truth table from JavaScript-like syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tt": "index.js"
+  },
+  "author": "R.A. Freeman",
+  "license": "MIT"
+}
